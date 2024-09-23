@@ -1,0 +1,2 @@
+lambda:0.025000	 gama12:0.000100	 lp:0.900000	 ACC:0.985714	 NMI:0.967731	 Purity:0.985714	  Precision:0.97111	 Recall:0.971429	 Fscore:0.971269	 ARI:0.966639
+ 
